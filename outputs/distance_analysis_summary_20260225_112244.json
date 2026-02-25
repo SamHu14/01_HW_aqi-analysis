@@ -1,0 +1,27 @@
+{
+  "analysis_timestamp": "2026-02-25 11:22:44",
+  "taipei_main_station": {
+    "name": "台北總站",
+    "coordinates": "(25.0478, 121.517)"
+  },
+  "statistics": {
+    "total_stations": 40,
+    "average_distance_km": 220.91,
+    "median_distance_km": 253.36,
+    "min_distance_km": 1.76,
+    "max_distance_km": 330.8,
+    "std_distance_km": 87.43
+  },
+  "nearest_station": {
+    "name": "大同",
+    "county": "臺北市",
+    "aqi": 52,
+    "distance_km": 1.76
+  },
+  "farthest_station": {
+    "name": "金門",
+    "county": "金門縣",
+    "aqi": 80,
+    "distance_km": 330.8
+  }
+}

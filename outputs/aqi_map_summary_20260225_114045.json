@@ -1,0 +1,20 @@
+{
+  "total_stations": 84,
+  "stations_with_data": 84,
+  "stations_missing_data": 0,
+  "category_distribution": {
+    "good": 44,
+    "moderate": 25,
+    "unhealthy_sensitive": 15,
+    "unhealthy": 0,
+    "very_unhealthy": 0,
+    "hazardous": 0
+  },
+  "statistics": {
+    "max_aqi": 122,
+    "min_aqi": 25,
+    "avg_aqi": 61.0,
+    "median_aqi": 47
+  },
+  "timestamp": "2026-02-25 11:40:45"
+}

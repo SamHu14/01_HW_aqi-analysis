@@ -1,0 +1,10 @@
+{
+  "total_stations": 84,
+  "stations_with_aqi_data": 84,
+  "high_aqi_stations": 40,
+  "percentage_high_aqi": 47.61904761904761,
+  "max_aqi": 122,
+  "min_aqi": 25,
+  "avg_aqi": 60.95238095238095,
+  "data_timestamp": "2026-02-25 11:18:50"
+}
